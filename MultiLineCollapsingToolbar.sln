@@ -1,0 +1,35 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultilineCollapsingToolbar", "MultiLineCollapsingToolbar.Binding\MultilineCollapsingToolbar.csproj", "{D96A20A7-3BB4-4E74-9437-9154E868E437}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Testing|Any CPU = Testing|Any CPU
+		Staging|Any CPU = Staging|Any CPU
+		Production|Any CPU = Production|Any CPU
+		TestingVleeshuis|Any CPU = TestingVleeshuis|Any CPU
+		StagingVleeshuis|Any CPU = StagingVleeshuis|Any CPU
+		ProductionVleeshuis|Any CPU = ProductionVleeshuis|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D96A20A7-3BB4-4E74-9437-9154E868E437}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D96A20A7-3BB4-4E74-9437-9154E868E437}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D96A20A7-3BB4-4E74-9437-9154E868E437}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D96A20A7-3BB4-4E74-9437-9154E868E437}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D96A20A7-3BB4-4E74-9437-9154E868E437}.Testing|Any CPU.ActiveCfg = Testing|Any CPU
+		{D96A20A7-3BB4-4E74-9437-9154E868E437}.Testing|Any CPU.Build.0 = Testing|Any CPU
+		{D96A20A7-3BB4-4E74-9437-9154E868E437}.Staging|Any CPU.ActiveCfg = Staging|Any CPU
+		{D96A20A7-3BB4-4E74-9437-9154E868E437}.Staging|Any CPU.Build.0 = Staging|Any CPU
+		{D96A20A7-3BB4-4E74-9437-9154E868E437}.Production|Any CPU.ActiveCfg = Production|Any CPU
+		{D96A20A7-3BB4-4E74-9437-9154E868E437}.Production|Any CPU.Build.0 = Production|Any CPU
+		{D96A20A7-3BB4-4E74-9437-9154E868E437}.TestingVleeshuis|Any CPU.ActiveCfg = TestingVleeshuis|Any CPU
+		{D96A20A7-3BB4-4E74-9437-9154E868E437}.TestingVleeshuis|Any CPU.Build.0 = TestingVleeshuis|Any CPU
+		{D96A20A7-3BB4-4E74-9437-9154E868E437}.StagingVleeshuis|Any CPU.ActiveCfg = StagingVleeshuis|Any CPU
+		{D96A20A7-3BB4-4E74-9437-9154E868E437}.StagingVleeshuis|Any CPU.Build.0 = StagingVleeshuis|Any CPU
+		{D96A20A7-3BB4-4E74-9437-9154E868E437}.ProductionVleeshuis|Any CPU.ActiveCfg = ProductionVleeshuis|Any CPU
+		{D96A20A7-3BB4-4E74-9437-9154E868E437}.ProductionVleeshuis|Any CPU.Build.0 = ProductionVleeshuis|Any CPU
+	EndGlobalSection
+EndGlobal
