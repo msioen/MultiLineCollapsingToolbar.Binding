@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultilineCollapsingToolbar", "MultiLineCollapsingToolbar.Binding\MultilineCollapsingToolbar.csproj", "{D96A20A7-3BB4-4E74-9437-9154E868E437}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultilneCollapsingToolbar.Demo", "MultilneCollapsingToolbar.Demo\MultilneCollapsingToolbar.Demo.csproj", "{498CD272-43E3-469B-A983-62CD14BBED16}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,5 +33,21 @@ Global
 		{D96A20A7-3BB4-4E74-9437-9154E868E437}.StagingVleeshuis|Any CPU.Build.0 = StagingVleeshuis|Any CPU
 		{D96A20A7-3BB4-4E74-9437-9154E868E437}.ProductionVleeshuis|Any CPU.ActiveCfg = ProductionVleeshuis|Any CPU
 		{D96A20A7-3BB4-4E74-9437-9154E868E437}.ProductionVleeshuis|Any CPU.Build.0 = ProductionVleeshuis|Any CPU
+		{498CD272-43E3-469B-A983-62CD14BBED16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{498CD272-43E3-469B-A983-62CD14BBED16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{498CD272-43E3-469B-A983-62CD14BBED16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{498CD272-43E3-469B-A983-62CD14BBED16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{498CD272-43E3-469B-A983-62CD14BBED16}.Testing|Any CPU.ActiveCfg = Release|Any CPU
+		{498CD272-43E3-469B-A983-62CD14BBED16}.Testing|Any CPU.Build.0 = Release|Any CPU
+		{498CD272-43E3-469B-A983-62CD14BBED16}.Staging|Any CPU.ActiveCfg = Release|Any CPU
+		{498CD272-43E3-469B-A983-62CD14BBED16}.Staging|Any CPU.Build.0 = Release|Any CPU
+		{498CD272-43E3-469B-A983-62CD14BBED16}.Production|Any CPU.ActiveCfg = Release|Any CPU
+		{498CD272-43E3-469B-A983-62CD14BBED16}.Production|Any CPU.Build.0 = Release|Any CPU
+		{498CD272-43E3-469B-A983-62CD14BBED16}.TestingVleeshuis|Any CPU.ActiveCfg = Release|Any CPU
+		{498CD272-43E3-469B-A983-62CD14BBED16}.TestingVleeshuis|Any CPU.Build.0 = Release|Any CPU
+		{498CD272-43E3-469B-A983-62CD14BBED16}.StagingVleeshuis|Any CPU.ActiveCfg = Release|Any CPU
+		{498CD272-43E3-469B-A983-62CD14BBED16}.StagingVleeshuis|Any CPU.Build.0 = Release|Any CPU
+		{498CD272-43E3-469B-A983-62CD14BBED16}.ProductionVleeshuis|Any CPU.ActiveCfg = Release|Any CPU
+		{498CD272-43E3-469B-A983-62CD14BBED16}.ProductionVleeshuis|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
