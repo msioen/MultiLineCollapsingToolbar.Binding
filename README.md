@@ -1,3 +1,5 @@
+[![NuGet Status](http://img.shields.io/nuget/v/MultiLineCollapsingToolbar.Binding.svg?style=flat)](https://www.nuget.org/packages/MultiLineCollapsingToolbar.Binding/)
+
 # Multilinecollapsingtoolbar binding
 
 Android Xamarin binding for libary https://github.com/opacapp/multiline-collapsingtoolbar
